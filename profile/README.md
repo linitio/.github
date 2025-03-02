@@ -1,6 +1,6 @@
 ![Hero image](https://raw.githubusercontent.com/timothystewart6/images/master/techno-timgithub-profile.jpg)
 
-[![GitHub followers](https://img.shields.io/github/followers/timothystewart6?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
+[![GitHub followers](https://img.shields.io/github/followers/linitio?logo=GitHub&style=for-the-badge)](https://l.technotim.live/github)
 [![GitHub Stars](https://img.shields.io/github/stars/techno-tim?logo=github&style=for-the-badge)](https://l.technotim.live/github)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://l.technotim.live/subscribe) 
 [![Twitter Followers](https://img.shields.io/twitter/follow/technotimlive?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://l.technotim.live/twitter)
